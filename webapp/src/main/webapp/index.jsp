@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning. I did well today. Please work </h1>
+   <h1> Thankyou, Happy New year 2023. I did well today. Please work </h1>
    <h1> We finally integrated Docker within Jenkins2</h1>
 
   
