@@ -34,7 +34,7 @@
    <h1> Thankyou, Happy New year 2023. We did well today. Please work on your use case</h1>
    <h1> We finally integrated Tomcat within JenkinsThis is Pete version.cedric was awake at this time. This is Yinks version</h1>
    <h1> Today G-3 Finally integrated Docker within Jenkins. This is a Success after five attempt</h1>
-   <h1> The next phase is to integrate ansible with Jenkin and then we automate the process using the playbook to create the image and push the image to dockerhub</h1>
+   <h1> The next phase is to integrate ansible with Jenkin and then we automate the process using the playbook to create the image and push the image regapp:v2 to dockerhub</h1>
 
   
 </form>
